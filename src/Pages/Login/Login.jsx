@@ -15,7 +15,7 @@ const Login = () => {
     }
 
     return (
-        <div>
+        <div className='max-w-7xl mx-auto'>
             <div className="flex items-center pb-20">
                 <div className="w-1/2">
                     <img src={login} alt="" className='w-4/5' />
@@ -40,7 +40,6 @@ const Login = () => {
                         <BiLogoLinkedin className='text-blue-700 bg-base-300 p-2 rounded-full text-4xl'></BiLogoLinkedin>
                         <FcGoogle className='bg-base-300 p-2 rounded-full text-4xl'></FcGoogle>
                     </div>
-
                     <p className='text-center mt-8'>Have an account? <Link className='text-[#FF3811]'>Sign In</Link></p>
                 </div>
             </div>
