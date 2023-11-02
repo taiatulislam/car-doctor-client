@@ -1,7 +1,7 @@
-import slider1 from '../../../assets/images/banner/1.jpg'
-import slider2 from '../../../assets/images/banner/2.jpg'
-import slider3 from '../../../assets/images/banner/3.jpg'
-import slider4 from '../../../assets/images/banner/4.jpg'
+import slider1 from '../../../assets/images/homeCarousel/1.jpg'
+import slider2 from '../../../assets/images/homeCarousel/2.jpg'
+import slider3 from '../../../assets/images/homeCarousel/3.jpg'
+import slider4 from '../../../assets/images/homeCarousel/4.jpg'
 
 const Banner = () => {
     return (
